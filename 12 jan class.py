@@ -144,7 +144,7 @@ class Item:
 
 
 
-# add Transactions and polymorphism
+# add Transactions and polymorphismю
 
 seller = Seller("Gleb", "gleb@mail.com", "123")
 buyer = Buyer("Alex", "alex@mail.com", "456")
